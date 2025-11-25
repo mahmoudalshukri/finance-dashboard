@@ -157,7 +157,7 @@ const SettingsPage: React.FC = () => {
           isRTL ? "تم استيراد البيانات بنجاح" : "Data imported successfully",
         );
         setTimeout(() => window.location.reload(), 1000);
-      } catch (error) {
+      } catch (_) {
         toast.error(isRTL ? "فشل استيراد البيانات" : "Failed to import data");
       }
     };
