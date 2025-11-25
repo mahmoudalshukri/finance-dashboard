@@ -1,0 +1,202 @@
+{
+  "en": {
+    "dashboard": {
+      "title": "Dashboard",
+      "totalIncome": "Total Income",
+      "totalExpenses": "Total Expenses",
+      "netSavings": "Net Savings",
+      "remainingBudget": "Remaining Budget",
+      "monthlyCashFlow": "Monthly Cash Flow",
+      "expensesByCategory": "Expenses by Category",
+      "activeGoals": "Active Goals",
+      "thisMonth": "This Month",
+      "viewAll": "View All"
+    },
+    "expenses": {
+      "title": "Expenses",
+      "addExpense": "Add Expense",
+      "category": "Category",
+      "amount": "Amount",
+      "date": "Date",
+      "description": "Description",
+      "recurring": "Recurring",
+      "filterByCategory": "Filter by Category",
+      "filterByDate": "Filter by Date",
+      "allCategories": "All Categories",
+      "monthlyExpenseSummary": "Monthly Expense Summary",
+      "recurringSubscriptions": "Recurring Subscriptions",
+      "noExpenses": "No expenses found",
+      "total": "Total"
+    },
+    "income": {
+      "title": "Income",
+      "addIncome": "Add Income",
+      "source": "Source",
+      "type": "Type",
+      "fixed": "Fixed",
+      "variable": "Variable",
+      "monthlyIncome": "Monthly Income",
+      "noIncome": "No income sources found",
+      "total": "Total"
+    },
+    "goals": {
+      "title": "Financial Goals",
+      "addGoal": "Add Goal",
+      "targetAmount": "Target Amount",
+      "savedSoFar": "Saved So Far",
+      "dueDate": "Due Date",
+      "progress": "Progress",
+      "goalName": "Goal Name",
+      "noGoals": "No goals set yet",
+      "completed": "Completed"
+    },
+    "settings": {
+      "title": "Settings",
+      "language": "Language",
+      "currency": "Currency",
+      "theme": "Theme",
+      "categories": "Categories",
+      "monthlyResetDate": "Monthly Reset Date",
+      "exportData": "Export Data",
+      "importData": "Import Data",
+      "manageCategories": "Manage Categories",
+      "addCategory": "Add Category",
+      "categoryName": "Category Name",
+      "light": "Light",
+      "dark": "Dark",
+      "system": "System"
+    },
+    "common": {
+      "save": "Save",
+      "cancel": "Cancel",
+      "delete": "Delete",
+      "edit": "Edit",
+      "confirm": "Confirm",
+      "close": "Close",
+      "search": "Search",
+      "filter": "Filter",
+      "export": "Export",
+      "import": "Import",
+      "add": "Add",
+      "update": "Update",
+      "remove": "Remove"
+    },
+    "categories": {
+      "food": "Food & Dining",
+      "transport": "Transportation",
+      "shopping": "Shopping",
+      "entertainment": "Entertainment",
+      "bills": "Bills & Utilities",
+      "health": "Health & Fitness",
+      "education": "Education",
+      "other": "Other"
+    },
+    "nav": {
+      "dashboard": "Dashboard",
+      "expenses": "Expenses",
+      "income": "Income",
+      "goals": "Goals",
+      "settings": "Settings"
+    }
+  },
+  "ar": {
+    "dashboard": {
+      "title": "لوحة التحكم",
+      "totalIncome": "إجمالي الدخل",
+      "totalExpenses": "إجمالي المصروفات",
+      "netSavings": "صافي المدخرات",
+      "remainingBudget": "الميزانية المتبقية",
+      "monthlyCashFlow": "التدفق النقدي الشهري",
+      "expensesByCategory": "المصروفات حسب الفئة",
+      "activeGoals": "الأهداف النشطة",
+      "thisMonth": "هذا الشهر",
+      "viewAll": "عرض الكل"
+    },
+    "expenses": {
+      "title": "المصروفات",
+      "addExpense": "إضافة مصروف",
+      "category": "الفئة",
+      "amount": "المبلغ",
+      "date": "التاريخ",
+      "description": "الوصف",
+      "recurring": "متكرر",
+      "filterByCategory": "تصفية حسب الفئة",
+      "filterByDate": "تصفية حسب التاريخ",
+      "allCategories": "جميع الفئات",
+      "monthlyExpenseSummary": "ملخص المصروفات الشهرية",
+      "recurringSubscriptions": "الاشتراكات المتكررة",
+      "noExpenses": "لا توجد مصروفات",
+      "total": "الإجمالي"
+    },
+    "income": {
+      "title": "الدخل",
+      "addIncome": "إضافة دخل",
+      "source": "المصدر",
+      "type": "النوع",
+      "fixed": "ثابت",
+      "variable": "متغير",
+      "monthlyIncome": "الدخل الشهري",
+      "noIncome": "لا توجد مصادر دخل",
+      "total": "الإجمالي"
+    },
+    "goals": {
+      "title": "الأهداف المالية",
+      "addGoal": "إضافة هدف",
+      "targetAmount": "المبلغ المستهدف",
+      "savedSoFar": "المدخر حتى الآن",
+      "dueDate": "تاريخ الاستحقاق",
+      "progress": "التقدم",
+      "goalName": "اسم الهدف",
+      "noGoals": "لم يتم تعيين أهداف بعد",
+      "completed": "مكتمل"
+    },
+    "settings": {
+      "title": "الإعدادات",
+      "language": "اللغة",
+      "currency": "العملة",
+      "theme": "المظهر",
+      "categories": "الفئات",
+      "monthlyResetDate": "تاريخ إعادة التعيين الشهري",
+      "exportData": "تصدير البيانات",
+      "importData": "استيراد البيانات",
+      "manageCategories": "إدارة الفئات",
+      "addCategory": "إضافة فئة",
+      "categoryName": "اسم الفئة",
+      "light": "فاتح",
+      "dark": "داكن",
+      "system": "النظام"
+    },
+    "common": {
+      "save": "حفظ",
+      "cancel": "إلغاء",
+      "delete": "حذف",
+      "edit": "تعديل",
+      "confirm": "تأكيد",
+      "close": "إغلاق",
+      "search": "بحث",
+      "filter": "تصفية",
+      "export": "تصدير",
+      "import": "استيراد",
+      "add": "إضافة",
+      "update": "تحديث",
+      "remove": "إزالة"
+    },
+    "categories": {
+      "food": "الطعام والمطاعم",
+      "transport": "المواصلات",
+      "shopping": "التسوق",
+      "entertainment": "الترفيه",
+      "bills": "الفواتير والمرافق",
+      "health": "الصحة واللياقة",
+      "education": "التعليم",
+      "other": "أخرى"
+    },
+    "nav": {
+      "dashboard": "لوحة التحكم",
+      "expenses": "المصروفات",
+      "income": "الدخل",
+      "goals": "الأهداف",
+      "settings": "الإعدادات"
+    }
+  }
+}
