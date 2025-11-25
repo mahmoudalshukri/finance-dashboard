@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: "Mahmoud Alshukri" }],
   creator: "Mahmoud Alshukri",
-  metadataBase: new URL("https://your-domain.com"),
+  metadataBase: new URL("https://finance-dashboard-smoky-ten.vercel.app"),
 
   openGraph: {
     type: "website",
@@ -26,7 +26,7 @@ export const metadata: Metadata = {
     title: "Personal Finance Dashboard",
     description:
       "Track income, expenses, savings, and goals — with multilingual AR/EN support.",
-    url: "https://your-domain.com",
+    url: "https://finance-dashboard-smoky-ten.vercel.app",
     siteName: "Personal Finance Dashboard",
     images: [
       {
